@@ -45,8 +45,8 @@
 ```
 @font-face {
   font-family: SweiDelLunaSansCJKtc-Regular;
-  src: url(https://cdn.jsdelivr.net/gh/max32002/swei-del-luna-sans@2.0/WebFont/CJK%20TC/SweiDelLunaSansCJKtc-Regular.woff2) format("woff2")
-  , url(https://cdn.jsdelivr.net/gh/max32002/swei-del-luna-sans@2.0/WebFont/CJK%20TC/SweiDelLunaSansCJKtc-Regular.woff) format("woff");
+  src: url(https://cdn.jsdelivr.net/gh/max32002/swei-del-luna-sans@2.129/WebFont/CJK%20TC/SweiDelLunaSansCJKtc-Regular.woff2) format("woff2")
+  , url(https://cdn.jsdelivr.net/gh/max32002/swei-del-luna-sans@2.129/WebFont/CJK%20TC/SweiDelLunaSansCJKtc-Regular.woff) format("woff");
 }
 ```
 
